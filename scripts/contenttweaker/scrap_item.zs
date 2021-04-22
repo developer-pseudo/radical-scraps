@@ -5,6 +5,6 @@ import mods.contenttweaker.Item;
 
 var pieceOfScrap = VanillaFactory.createItem("piece_of_scrap");
 pieceOfScrap.maxStackSize = 64;
-pieceOfScrap.rarity = "UNCOMMON";
+pieceOfScrap.rarity = "COMMON";
 
 pieceOfScrap.register();
