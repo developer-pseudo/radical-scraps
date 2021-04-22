@@ -49,9 +49,9 @@ attackIndicator:1
 showSubtitles:true
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
-tutorialStep:movement
+tutorialStep:none
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -136,7 +136,7 @@ key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_key.journeymap.toggle_waypoints:44
 key_key.journeymap.fullscreen_create_waypoint:48
-key_key.journeymap.fullscreen_chat_position:46
+key_key.journeymap.fullscreen_chat_position:0
 key_key.journeymap.map_toggle_alt:36
 key_key.journeymap.fullscreen_waypoints:48:CONTROL
 key_key.journeymap.minimap_toggle_alt:36:CONTROL
