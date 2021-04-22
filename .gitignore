@@ -13,4 +13,5 @@ usercache.json
 usernamecache.json
 screenshots/
 crash-reports/
+config/splash.properties
 !.gitignore
