@@ -1,5 +1,6 @@
 # - Minecraft Ignores - #
 
+config/InvTweaks.cfg
 structures/
 journeymap/
 logs/
