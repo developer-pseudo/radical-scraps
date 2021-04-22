@@ -643,6 +643,50 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+reccomplex:block_selector, Block Selector
+reccomplex:block_selector_floating, Floating Block Selector
+reccomplex:inventory_generation_tag, Loot Generation Tag
+reccomplex:inventory_generation_single_tag, Single Loot Generation Tag
+reccomplex:inventory_generation_component_tag, Loot Table Component Tag
+reccomplex:artifact_generation_tag, Artifact Generation Tag
+reccomplex:book_generation_tag, Book Generation Tag
+reccomplex:generic_space:0, Space (0 ~ Negative Space)
+reccomplex:generic_space:1, Space (1 ~ Natural Air)
+reccomplex:generic_space:2, Space (2)
+reccomplex:generic_space:3, Space (3)
+reccomplex:generic_space:4, Space (4)
+reccomplex:generic_space:5, Space (5)
+reccomplex:generic_space:6, Space (6)
+reccomplex:generic_space:7, Space (7)
+reccomplex:generic_space:8, Space (8)
+reccomplex:generic_space:9, Space (9)
+reccomplex:generic_space:10, Space (10)
+reccomplex:generic_space:11, Space (11)
+reccomplex:generic_space:12, Space (12)
+reccomplex:generic_space:13, Space (13)
+reccomplex:generic_space:14, Space (14)
+reccomplex:generic_space:15, Space (15)
+reccomplex:generic_solid:0, Solid (0 ~ Natural Floor)
+reccomplex:generic_solid:1, Solid (1 ~ Barrier)
+reccomplex:generic_solid:2, Solid (2)
+reccomplex:generic_solid:3, Solid (3)
+reccomplex:generic_solid:4, Solid (4)
+reccomplex:generic_solid:5, Solid (5)
+reccomplex:generic_solid:6, Solid (6)
+reccomplex:generic_solid:7, Solid (7)
+reccomplex:generic_solid:8, Solid (8)
+reccomplex:generic_solid:9, Solid (9)
+reccomplex:generic_solid:10, Solid (10)
+reccomplex:generic_solid:11, Solid (11)
+reccomplex:generic_solid:12, Solid (12)
+reccomplex:generic_solid:13, Solid (13)
+reccomplex:generic_solid:14, Solid (14)
+reccomplex:generic_solid:15, Solid (15)
+reccomplex:structure_generator, Structure Generator
+reccomplex:maze_generator, Maze Generator
+reccomplex:weighted_command_block, tile.spawn_command.name
+reccomplex:spawn_script, Script Block
+reccomplex:inspector, Inspector
 forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
@@ -953,6 +997,38 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Space (0 ~ Negative Space)
+appliedenergistics2:facade:0, Cable Facade - Space (1 ~ Natural Air)
+appliedenergistics2:facade:0, Cable Facade - Space (2)
+appliedenergistics2:facade:0, Cable Facade - Space (3)
+appliedenergistics2:facade:0, Cable Facade - Space (4)
+appliedenergistics2:facade:0, Cable Facade - Space (5)
+appliedenergistics2:facade:0, Cable Facade - Space (6)
+appliedenergistics2:facade:0, Cable Facade - Space (7)
+appliedenergistics2:facade:0, Cable Facade - Space (8)
+appliedenergistics2:facade:0, Cable Facade - Space (9)
+appliedenergistics2:facade:0, Cable Facade - Space (10)
+appliedenergistics2:facade:0, Cable Facade - Space (11)
+appliedenergistics2:facade:0, Cable Facade - Space (12)
+appliedenergistics2:facade:0, Cable Facade - Space (13)
+appliedenergistics2:facade:0, Cable Facade - Space (14)
+appliedenergistics2:facade:0, Cable Facade - Space (15)
+appliedenergistics2:facade:0, Cable Facade - Solid (0 ~ Natural Floor)
+appliedenergistics2:facade:0, Cable Facade - Solid (1 ~ Barrier)
+appliedenergistics2:facade:0, Cable Facade - Solid (2)
+appliedenergistics2:facade:0, Cable Facade - Solid (3)
+appliedenergistics2:facade:0, Cable Facade - Solid (4)
+appliedenergistics2:facade:0, Cable Facade - Solid (5)
+appliedenergistics2:facade:0, Cable Facade - Solid (6)
+appliedenergistics2:facade:0, Cable Facade - Solid (7)
+appliedenergistics2:facade:0, Cable Facade - Solid (8)
+appliedenergistics2:facade:0, Cable Facade - Solid (9)
+appliedenergistics2:facade:0, Cable Facade - Solid (10)
+appliedenergistics2:facade:0, Cable Facade - Solid (11)
+appliedenergistics2:facade:0, Cable Facade - Solid (12)
+appliedenergistics2:facade:0, Cable Facade - Solid (13)
+appliedenergistics2:facade:0, Cable Facade - Solid (14)
+appliedenergistics2:facade:0, Cable Facade - Solid (15)
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -1454,34 +1530,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -2309,62 +2385,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -3213,6 +3289,22 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Concrete Powder
 chiselsandbits:block_bit:0, Chiseled Bit - Green Concrete Powder
 chiselsandbits:block_bit:0, Chiseled Bit - Red Concrete Powder
 chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (0 ~ Natural Floor)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (1 ~ Barrier)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (2)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (3)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (4)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (5)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (6)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (7)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (8)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (9)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (10)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (11)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (12)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (13)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (14)
+chiselsandbits:block_bit:0, Chiseled Bit - Solid (15)
 chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Charged Certus Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Block
