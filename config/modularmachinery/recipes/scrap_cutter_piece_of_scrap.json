@@ -1,7 +1,7 @@
 {
 	"machine": "scrap_cutter",
 	"registryName": "scrap_cutter_piece_of_scrap",
-	"recipeTime": 6, 
+	"recipeTime": 100, 
 	"requirements": [
 		{
 			"type": "modularmachinery:energy",
