@@ -1,3 +1,4 @@
 tile.contenttweaker.scrap_block.name=Scrap Block
 item.contenttweaker.piece_of_scrap.name=Piece of Scrap
 item.contenttweaker.scrap_plate.name=Scrap Plate
+fluid.molten_scrap=Molten Scrap
