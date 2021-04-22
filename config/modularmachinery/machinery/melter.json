@@ -1,4 +1,7 @@
 {
+    "registryname": "melter",
+    "localizedname": "Electrical Melter",
+    "color": "6f7275",
     "parts": [
         {
             "x": -1,
