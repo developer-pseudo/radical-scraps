@@ -1,0 +1,24 @@
+{
+	"machine": "scrap_cutter",
+	"registryName": "scrap_cutter_piece_of_scrap",
+	"recipeTime": 6, 
+	"requirements": [
+		{
+			"type": "modularmachinery:energy",
+			"io-type": "input",
+			"energyPerTick": 10
+		},
+		{
+			"type": "modularmachinery:item",
+			"io-type": "output",
+			"item": "contenttweaker:piece_of_scrap",
+			"amount": 3
+		},
+		{
+			"type": "modularmachinery:item",
+			"io-type": "input",
+			"item": "contenttweaker:scrap_block",
+			"amount": 1
+		}
+	]
+}
