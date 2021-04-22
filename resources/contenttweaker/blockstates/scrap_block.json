@@ -2,8 +2,8 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "texture": "contenttweaker:blocks/rusty_scrap_block",
-      "particle": "contenttweaker:blocks/rusty_scrap_block"
+      "texture": "contenttweaker:blocks/scrap_block",
+      "particle": "contenttweaker:blocks/scrap_block"
     },
     "model": "base:storage",
     "uvlock": true,
