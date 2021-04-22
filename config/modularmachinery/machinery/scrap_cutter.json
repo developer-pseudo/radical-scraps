@@ -1,6 +1,7 @@
 {
     "registryname": "scrap_cutter",
     "localizedname": "Scrap Cutter",
+    "color": "6f7275",
     "parts": [
         {
             "x": -1,
