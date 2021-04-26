@@ -18,3 +18,4 @@ crash-reports/
 config/splash.properties
 options.txt
 !.gitignore
+mods/
