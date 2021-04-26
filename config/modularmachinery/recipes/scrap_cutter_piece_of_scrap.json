@@ -16,6 +16,13 @@
 		},
 		{
 			"type": "modularmachinery:item",
+			"io-type": "output",
+			"item": "contenttweaker:piece_of_scrap",
+			"amount": 3,
+			"chance": 0.05
+		},
+		{
+			"type": "modularmachinery:item",
 			"io-type": "input",
 			"item": "contenttweaker:scrap_block",
 			"amount": 1
