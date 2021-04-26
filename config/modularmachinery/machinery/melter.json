@@ -1,6 +1,7 @@
 {
     "registryname": "melter",
     "localizedname": "Electrical Melter",
+    "requires-blueprint": true,
     "color": "6f7275",
     "parts": [
         {
